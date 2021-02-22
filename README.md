@@ -214,6 +214,9 @@ $phar->setMetadata($wrapperObj);
 ?> 
 ```
 
+## Is the king in check? 200
+The solution is too long, so it can be found here -> [solution](https://gist.github.com/vykintazo/b2f30db19ef38e261308d831b31496f3)
+
 ---
 
 ## Random encryption 100
